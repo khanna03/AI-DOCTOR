@@ -28,9 +28,4 @@ It predicts possible diseases based on symptoms, provides general medical guidan
 
 ---
 
-## ⚙️ Setup & Run Instructions
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/khanna03/AI-DOCTOR.git
-   cd AI-DOCTOR
