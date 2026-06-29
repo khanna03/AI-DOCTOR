@@ -21,11 +21,11 @@ It predicts possible diseases based on symptoms, provides general medical guidan
 |------------|-------------|
 | **Frontend** | Gradio |
 | **Backend** | FastAPI |
-| **AI Model** | Grok AI API |
+| **AI Model** | Grok API |
 | **Language** | Python |
 | **Containerization** | Docker |
 | **Version Control** | Git & GitHub |
 
----
+
 
 
