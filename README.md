@@ -25,6 +25,7 @@ It predicts possible diseases based on symptoms, provides general medical guidan
 | **Language** | Python |
 | **Containerization** | Docker |
 | **Version Control** | Git & GitHub |
+.
 
 
 
