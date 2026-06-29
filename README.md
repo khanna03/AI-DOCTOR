@@ -1,4 +1,4 @@
-# 🧠 AI Doctor
+## 🧠 AI Doctor
 
 AI Doctor is an **AI-powered healthcare assistant** that uses **FastAPI** for backend services, **Gradio** for a friendly interactive interface, and **Grok AI APIs** for intelligent medical insight generation.  
 It predicts possible diseases based on symptoms, provides general medical guidance, and can be deployed anywhere using **Docker**.
